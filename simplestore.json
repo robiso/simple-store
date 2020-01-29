@@ -1,16 +1,6 @@
 {
     "config": {
-        "methods": {
-            "PayPal": {
-                "plugin": "paypal",
-                "process": "process.php"
-            },
-            "Free": {
-                "plugin": "free",
-                "process": "process.php"
-            }
-        },
-        "base_url": "https:\/\/www.store.wonder.stanisic.nl\/"
+        "methods": {}
     },
     "products": {
         "KB-HOODIE": {
@@ -30,17 +20,5 @@
             "tax": 21
         }
     },
-    "orders": {
-        "0": "d4c002",
-        "1": "7ebe1e",
-        "2": "769c25",
-        "3": "b1df02",
-        "4": "c6d675",
-        "5": "098ea1",
-        "6": "d3c21b",
-        "7": "d81908",
-        "8": "6d3bfbfaec295b196279532f",
-        "9": "0ebfbca0ea114b491297d75f",
-        "10": "c443e60835a600d5d0872061"
-    }
+    "orders": {}
 }
