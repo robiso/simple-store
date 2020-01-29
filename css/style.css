@@ -1,0 +1,11 @@
+.store.product.tile {
+	width: calc(33% - 2px);
+	min-width: calc(200px + 2em);
+	display: inline-block;
+
+	box-shadow: -1px -1px 6px 0 rgba(0,0,0,.1);
+	padding: 0.5em 1em 1em 1em;
+}
+.store.product.tile h4 {
+	margin-bottom: 0;
+}

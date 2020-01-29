@@ -1,0 +1,47 @@
+{
+    "customer": {
+        "first_name": "Stephan",
+        "last_name": "Stanisic",
+        "email": "stephan@stanisic.nl"
+    },
+    "address": {
+        "address": "Heeraaltszstraat 8",
+        "country": "United States",
+        "state": "Gelderland",
+        "zip": "3841CH"
+    },
+    "order": {
+        "total": 40,
+        "tax": 8.4000000000000003552713678800500929355621337890625,
+        "items": [
+            {
+                "product": {
+                    "name": "Karsten Belt Tee",
+                    "image": "data\/files\/tee.jpg",
+                    "short_desc": "Pick a color and get one of these awesome tees!",
+                    "desc": "Loloefjhdsgh fjdgaujseg askdfjugg",
+                    "price": 15,
+                    "tax": 21
+                },
+                "amount": 1,
+                "sku": "KB-TEE"
+            },
+            {
+                "product": {
+                    "name": "Karsten Belt Hoodie",
+                    "image": "data\/files\/hoodie.jpg",
+                    "short_desc": "Pick a color and get one of these awesome hoodies!",
+                    "desc": "Loloefjhdsgh fjdgaujseg askdfjugg",
+                    "price": 25,
+                    "tax": 21
+                },
+                "amount": 1,
+                "sku": "KB-HOODIE"
+            }
+        ]
+    },
+    "payment": {
+        "status": "unpaid"
+    },
+    "date": 1580319202
+}

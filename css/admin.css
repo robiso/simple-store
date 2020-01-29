@@ -1,0 +1,11 @@
+#adminPanel .product {
+	box-shadow: -1px -1px 6px 0 rgba(0,0,0,.1);
+	padding: .5em 1em;
+	width: calc(50% - 1em);
+	display: inline-block;
+	margin: 1em 0;
+	vertical-align: top;
+}
+#adminPanel .product:nth-child(2n) {
+	margin-left: 2em;
+}
