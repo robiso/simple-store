@@ -12,3 +12,5 @@ You can add a product card to any page using its embed tag: `[product sku=KB-TEE
 Payment methods are supplied by different plugins. Check out StephanStanisic/simplestore-free for a simple all orders are automaticly paid example.
 
 This whole project needs a lot of polishing up.
+
+Try it here: <https://www.store.wonder.stanisic.nl/>
